@@ -163,14 +163,14 @@ $lang_common = array(
 'Total query time'			=>	'Durée totale de la requête',
 
 // Error message
-'Forum error header'		=> 'Désolé! La page ne peut etre chargé.',
-'Forum error description'	=> 'Cette erreur peut ête temporaire. Rafraichissez la page. Si le probleme persiste, essayez a nouveau dans 5-10 minutes.',
-'Forum error location'		=> 'Une erreur est apparue a la ligne %1$s dans le fichier %2$s',
+'Forum error header'		=> 'Désolé ! La page ne peut être chargée.',
+'Forum error description'	=> 'Cette erreur peut être temporaire. Actualisez la page. Si le problème persiste, essayez à nouveau dans 5-10 minutes.',
+'Forum error location'		=> 'Une erreur est apparue à la ligne %1$s dans le fichier %2$s',
 'Forum error db reported'	=> 'Le serveur BDD a répondu:',
-'Forum error db query'		=> 'Impossible d\'exécuter la requette:',
+'Forum error db query'		=> 'Impossible d\'exécuter la requête :',
 
 // Menu
 'Menu admin'		=> 'Admin Menu',
-'Menu profile'		=> 'Menu du profile',
+'Menu profile'		=> 'Menu du profil',
 
 );
