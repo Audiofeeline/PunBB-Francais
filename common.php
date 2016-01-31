@@ -20,7 +20,7 @@ $lang_common = array(
 
 
 // Miscellaneous
-'Forum index'				=>	'Index du forum',
+'Forum index'				=>	'Accueil du forum',
 'Submit'					=>	'Envoyer',	// "name" of submit buttons
 'Cancel'					=>	'Annuler', // "name" of cancel buttons
 'Preview'					=>	'Aperçu',	// submit button to preview message
@@ -113,7 +113,7 @@ $lang_common = array(
 'BBCode code problem'		=>	'Il y a un problème dans vos tags [code]',
 
 // Stuff for the navigator (top of every page)
-'Index'						=>	'Index',
+'Index'						=>	'Accueil',
 'User list'					=>	'Membres',
 'Rules'						=>  'Règles',
 'Search'					=>  'Chercher',
